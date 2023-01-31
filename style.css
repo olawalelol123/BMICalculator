@@ -1,12 +1,25 @@
-*{
-    padding: 0px;
+*{  padding: 0px;
     margin: 0px;
-    border: 0px;
-}
+    list-style-type: none;
+  }
+  
+  .button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 140px;
+  }
 
-p{
-    padding: 2rem;
-    border-left: dashed 15px blue;
-    border-right: dashed 15px blue;
-    font-size: 25px;
-}
+  .input{
+    padding-top: 10px;
+    padding-left: 20px;
+  }
+
+  body{
+    margin: 100px;
+    padding-left: 450px;
+  }
