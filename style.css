@@ -1,25 +1,32 @@
 *{  padding: 0px;
-    margin: 0px;
-    list-style-type: none;
-  }
-  
-  .button {
-    background-color: #4CAF50;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    cursor: pointer;
-    border-radius: 4px;
-    margin-left: 140px;
-  }
+  margin: 0px;
+  list-style-type: none;
+}
 
-  .input{
-    padding-top: 10px;
-    padding-left: 20px;
-  }
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 140px;
+}
 
-  body{
-    margin: 100px;
-    padding-left: 450px;
-  }
+.input{
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+body{
+  margin: 200px;
+  padding-left: 450px;
+  background-image: url("2nd.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body ul li strong{
+  color: white;
+}
